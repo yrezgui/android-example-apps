@@ -1,4 +1,4 @@
-rootProject.name = "Sample Apps"
+rootProject.name = "Example Apps"
 include ':spaceshooter'
 include ':pockettranslator'
 include ':citymaker'
