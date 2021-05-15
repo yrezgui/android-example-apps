@@ -1,2 +1,3 @@
 rootProject.name = "Sample Apps"
 include ':spaceshooter'
+include ':pockettranslator'
